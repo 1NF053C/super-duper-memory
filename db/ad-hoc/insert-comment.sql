@@ -1,1 +1,1 @@
-INSERT INTO COMMENTS (author, body, post_slug) values ("Chris", "Great post!", "hello-world");
+INSERT INTO comments (author, body, post_slug) VALUES ("Chris", "Great post!", "hello-world");

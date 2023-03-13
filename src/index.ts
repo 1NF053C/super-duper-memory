@@ -13,7 +13,7 @@ app.get('/api/posts/:slug/comments', async c => {
     return c.json(results)
 });
 
-// disable inserations from API for now
+// disable insertions from API for now
 /*
 app.post('/api/posts/:slug/comments', async c => {
     const { slug } = c.req.param()
