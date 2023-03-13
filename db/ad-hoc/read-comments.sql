@@ -1,0 +1,1 @@
+SELECT * FROM comments WHERE post_slug = "hello-world";

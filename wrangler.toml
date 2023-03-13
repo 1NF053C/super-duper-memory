@@ -1,0 +1,9 @@
+name = "super-duper-memory"
+main = "src/index.ts"
+compatibility_date = "2023-03-13"
+
+[[ d1_databases ]]
+binding = "DB" # i.e. available in your Worker on env.DB
+database_name = "comments"
+database_id = "d4105dab-dd92-4fa1-a290-d0eaf55dfaff"
+
